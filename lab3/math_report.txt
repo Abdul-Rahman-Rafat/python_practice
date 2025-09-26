@@ -1,0 +1,12 @@
+floor of number 1.0 is 1
+ceil of number 1.0 is 1
+square root of number 1.0 is 1.0
+floor of number 2.0 is 2
+ceil of number 2.0 is 2
+square root of number 2.0 is 1.4142135623730951
+floor of number 3.2 is 3
+ceil of number 3.2 is 4
+square root of number 3.2 is 1.7888543819998317
+
+
+
